@@ -18,6 +18,12 @@ Follow the instructions for your operating system:
 
 ### Windows Installation
 
+**Note :** Since windows is the Commonly used one here is the Link for How to do it!
+🔗 https://youtu.be/TT8ktVp5j-k
+
+> For other OS you can find the Guide Below !
+
+
 1. **Download Git for Windows**
    - Visit the official Git website: [https://git-scm.com/download/win](https://git-scm.com/download/win)
    - The download should start automatically. If not, click on the appropriate version (64-bit or 32-bit)
