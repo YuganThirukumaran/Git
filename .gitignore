@@ -30,10 +30,3 @@ dist/
 build/
 *.pyc
 __pycache__/
-
-# Only allow specific image formats in screenshots folder
-# All other files should be rejected
-!screenshots/*.png
-!screenshots/*.jpg
-!screenshots/*.jpeg
-!screenshots/*.gif
